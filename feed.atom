@@ -1,662 +1,1210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-22T02:52:47.805Z</id>
+    <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T02:52:47.805Z</updated>
+    <updated>2021-05-22T03:15:02.089Z</updated>
     <generator>osmosfeed 1.7.2</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
+    <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
-        <id>https://css-tricks.com/?p=340991</id>
-        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
-        <updated>2021-05-21T23:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
-The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[これからの旅に]]></title>
+        <id>http://blog.nogizaka46.com/renka.iwamoto/2021/05/061604.php</id>
+        <link href="http://blog.nogizaka46.com/renka.iwamoto/2021/05/061604.php"/>
+        <updated>2021-05-21T11:30:01.000Z</updated>
+        <summary type="html"><![CDATA[おつかれんたん
+
+
+
+
+
+
+
+
+
+
+
+
+　
+
+　
+
+
+
+
+　
+　
+
+梅雨入りしたのかなというくらい最近は雨が多いですね...
+　
+
+雨に聴きたくなる曲はなんだろうなぁ。
+　
+
+　
+暑い季節は苦手なので早く秋が来て欲しいです。
+　
+
+でも夏のイベントはクリスマスの次に好き( ˶˙˙˶)
+　
+
+ちなみに寒がりなので冬も苦手です。
+　
+
+クリスマスあるからなんとなく好きなだけです......
+　
+
+　
+　
+
+୨୧┈┈┈┈┈┈┈┈┈┈┈┈୨୧
+　
+
+　
+3期生ライブありがとうございました！
+　
+
+あの日から離れていくのが寂しいと感じるくらい凄く楽しくて最高な一日でした。
+　
+
+　
+　
+
+衣装パレードというブロックがあり、メンバーそれぞれが違う曲の衣装を着てパフォーマンスしたりしました。
+　
+
+　
+私はしおりと命は美しいの衣装を着させて頂きました！
+　
+
+そしてもうひとつはSingOutの衣装を☺︎‬
+　
+
+　
+みんなが違う衣装を着るってどういう感じなんだろうと思っていましたが実際に着てみるととても綺麗で、乃木坂の歴史も感じる事が出来て素敵だなぁと思いました。
+　
+
+　
+　
+
+リハ映像を確認してる時、他の3期生の知らな…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
-        <id>6098ce302cd0545b5e944d0b</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
-        <updated>2021-05-21T15:33:45.000Z</updated>
-        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
+        <title type="html"><![CDATA[クエスチョン！！！　　ハヤシン！！！]]></title>
+        <id>http://blog.nogizaka46.com/runa.hayashi/2021/05/061603.php</id>
+        <link href="http://blog.nogizaka46.com/runa.hayashi/2021/05/061603.php"/>
+        <updated>2021-05-21T11:12:01.000Z</updated>
+        <summary type="html"><![CDATA[本日もお疲れ様です。
+
+乃木坂46 4期生
+
+華咲くセブンのティーン、林瑠奈でございます。
+
+負けるな、しょげるな、林瑠奈　
+
+今日も一日頑張るな！！
+
+
+
+　
+
+　
+........................................................................
+
+
+
+Q 質問「掘り炬燵って安心しません？」
+
+A 安心するんかな？笑
+角に足をぶつけたときの痛みには耐えられない
+
+
+
+
+Q 最近よく聴く曲があったら教えて欲しいです♡
+
+
+A iriさんの「Wonderland」
+
+
+
+
+Q 最近はなにかありましたか？
+
+
+A 何かしかないよ
+
+
+
+
+Q ・女の子のファンをどう思いますか？？
+
+
+A らびらびらび！！♡♡♡
+
+
+
+
+
+Q 刹那少女の写真もかわいすぎる！リップの色かわいいんだけどどこの？
+
+
+A rom&ndさんのJLティント(#06フィグフィグ)を使ってました。
+
+
+
+
+
+Q 物語シリーズが好きと聞いておりますが、好きなキャラクターはだれですか？？？？？？
+
+
+A 戦場ヶ原ひたぎちゃんと阿良々木火憐ちゃんが大好きです。ホッチキスされたい。
+
+
+
+
+…]]></summary>
         <author>
-            <name/>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/?p=340825</id>
-        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
-        <updated>2021-05-21T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
-The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[つながっていく場所]]></title>
+        <id>http://blog.nogizaka46.com/haruka.kuromi/2021/05/061590.php</id>
+        <link href="http://blog.nogizaka46.com/haruka.kuromi/2021/05/061590.php"/>
+        <updated>2021-05-20T12:54:01.000Z</updated>
+        <summary type="html"><![CDATA[2月の全体ライブから始まった
+
+
+
+
+
+
+
+
+
+　
+
+9th year birthday live✨が完結し、
+　
+
+いよいよ来週は・・・
+　
+
+『アンダーライブ2021』だねー！
+　
+
+＊
+　
+今日も一日、お疲れ様です✩︎⡱ 
+　
+
+ココを見つけてくれて、ありがとうー♪
+　
+
+ちょこっとだけ自己紹介させてね〜☺︎
+♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪
+黒見 明香（くろみ はるか）
+2004年1月19日生まれ　17才
+香港生まれ・東京都出身です
+あだ名： くろみん・黒見ちゃん
+3の倍数9・6・3(くろみ)
+と覚えてもらえたら嬉しいな♪
+
+♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪
+
+-:-:୨୧:-:- 先輩方がつないできて下さった、大切なバースデーライブのステージ✨
+
+乃木坂46 デビュー記念日2/22の前夜祭から始まった
+『乃木坂46 9th YEAR BIRTHDAY LIVE』
+　
+
+　
+全体ライブ、2期生、1期生、4期生、3期生ライブと…]]></summary>
         <author>
-            <name>Adam Rackis</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Hell]]></title>
-        <id>https://css-tricks.com/?p=340919</id>
-        <link href="https://csshell.dev/"/>
-        <updated>2021-05-21T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
-From Stefánia Péter. 
-Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
-The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[想いを込めて　264.]]></title>
+        <id>http://blog.nogizaka46.com/kaede.satou/2021/05/061588.php</id>
+        <link href="http://blog.nogizaka46.com/kaede.satou/2021/05/061588.php"/>
+        <updated>2021-05-20T10:30:01.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは〜
+　
+
+今日もお疲れ様です
+　
+
+　
+佐藤楓です
+　
+
+　
+
+
+自分で作ったものを食べるのが1番痩せると私の研究でわかったので次のライブまで今は頑張ってお料理する期間です、がんばるぞ〜
+簡単なレシピあったら教えてください！
+　
+
+　
+　
+
+　
+純奈さんみり愛さん、大好きなお2人です
+　
+
+　
+さりげない優しさで包み込んでくださる純奈さん
+歳は私の方が上ですが勝手にお姉さんのように思っていました...
+ちょっと気持ちが落ちていた時、純奈さんは何気なくだったかもしれませんが隣にそっと来てくださったのがとても嬉しくてなんだか落ち着いたのを覚えています
+私がいつも先輩方が話してるのを見てニヤニヤしてると真っ先に純奈さんが気づいて突っ込んでくれます、（笑）そんなとこも含めて全部全部大好きです
+　
+
+　
+いつからか私をでんぷんなどなど独特なあだ名で呼んでくださって、
+プライベートでも一緒にご飯に行かせていただいたりとなんでも話せるみり愛さん
+私のくだらない話から悩みまで聞いてくださり時にはどこにも行き場のない口に出せない気持ちをさりげなく察してくださる優しい先輩です
+みり愛さんがくれた言葉が私の心の支えになっ…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
-        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
-        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
-        <updated>2021-05-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
+        <title type="html"><![CDATA[何を着たらいいかわからない気候だな〜]]></title>
+        <id>http://blog.nogizaka46.com/mio.yakubo/2021/05/061586.php</id>
+        <link href="http://blog.nogizaka46.com/mio.yakubo/2021/05/061586.php"/>
+        <updated>2021-05-20T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！
+乃木坂46 4期生の矢久保美緒です。
+よろしくお願いします！
+　
+　
+　
+今日、19時からのぎおび配信します！
+お時間のある方は是非見に来てください^^
+お話しましょう〜〜
+　
+
+
+　
+ミュージックステーション、見ていただけたでしょうか？
+　
+嬉しくて嬉しくてしょうがなかったな、
+何回も録画を見返しています。
+一生の思い出！！
+　
+リハーサルの時から緊張しまくりでした。
+　
+本番大丈夫だった？どうだったかな？
+感想聞かせてください^^
+　
+　
+　
+ものすごくかわいい衣装を作っていただきました✨ 実はね、さくちゃんと形が一緒で色違いだったの！！！
+ヘアアクセサリーも沢山あって、選ぶのもウキウキでした^^ わたしはポニーテールをしたのでりぼんをつけたよ〜
+　
+
+
+　
+　
+4期生ライブの｢I see...｣のとき
+裏でモニターを見ながらマネージャーさんやメイクさんがみんなで踊ってくれてたんです！！
+ライブが終わったあと送られてきていた動画を見て幸せな気持ちになりました☺️
+　
+
+そんな4期生ライブについてはまた書きますね。だいぶ時間があいてしまって申し訳ないです、、
+　
+　
+　
+　
+　
+　
+　
+◎ ヤ…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[桜色]]></title>
+        <id>http://blog.nogizaka46.com/miyu.matsuo/2021/05/061583.php</id>
+        <link href="http://blog.nogizaka46.com/miyu.matsuo/2021/05/061583.php"/>
+        <updated>2021-05-19T11:18:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは〜
+
+
+千葉県出身、高校3年生、17歳
+
+
+松尾美佑です¨̮
+
+
+
+
+アップトゥボーイさんのオフショットです‪⸜‎✿ ‎⸝‍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+私が初めて1人で登場させて頂いたのがアップトゥボーイさんで、それが約1年前なんですね
+
+
+その時は3月なのに雪が降っていました☃︎
+
+
+今年は桜が降っていました⸜‪✿‬⸝‍
+
+
+また登場させて頂けた事が嬉しいです‪‪☺︎‬
+
+
+そしてインタビューではさくちゃんに届け〜とさくちゃん話もして下さいました
+
+
+アップトゥボーイさんはゆっくり見守って下さっているそうですˊᵕˋ
+お優しいˊᵕˋ
+
+
+
+
+裏表紙には守屋麗奈ちゃんがいます⸜❤︎⸝‍(櫻坂46さん)
+
+
+しばらく会えていないなぁ
+
+
+げんきー？
+
+
+
+
+研修生の時のみんなの中だと、
+最近は日向坂46さんの未来虹ちゃんと茉莉ちゃんと陽世ぱるに会えました〜‪‪☺︎‬
+
+
+可愛かった( ˃̶͈ᴗ˂̶͈ )
+
+
+
+
+
+
+
+
+久しぶりにお返事の会をしますね
+
+
+
+
+✽ 春らしいこと何かした？
+
+
+蜂を毎日見てる( Ꙭ )
+
+
+
+
+✽ 高校三年生になった心境はどう？？
+
+
+う〜ん、行事とかも無くてどこか…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[懐かしいよね　　　林]]></title>
+        <id>http://blog.nogizaka46.com/runa.hayashi/2021/05/061580.php</id>
+        <link href="http://blog.nogizaka46.com/runa.hayashi/2021/05/061580.php"/>
+        <updated>2021-05-19T09:30:01.000Z</updated>
+        <summary type="html"><![CDATA[本日もお疲れ様です。
+
+乃木坂46 4期生
+
+華咲くセブンのティーン、林瑠奈でございます。
+
+負けるな、しょげるな、林瑠奈　
+
+今日も一日頑張るな！！
+
+
+
+　
+
+　
+...........................................................................
+　
+
+
+ブログに書くのが遅くなってしまいましたが、
+
+
+
+
+【乃木坂スター誕生！】が始まりました！
+
+
+
+
+これまでノギザカスキッツを1年間やらせていただいて来ましたが、
+
+
+
+
+今度は4期生が昭和・平成歌謡に挑戦しています！
+
+
+
+
+スキッツで得た事は正直めちゃめちゃ大きいです。
+
+
+
+
+自分を知ってもらうチャンスでもあったし、いかに目を留めてもらえるかを常に考えて作ってきました。
+
+
+
+
+思い返せば恥ずかしいものもありますが、その全てが今の自分を作り上げているなと。
+
+
+
+
+本当に貴重で有難い経験をさせていただいて幸せです。
+
+
+
+
+さらばさん含め、多くの方々にお世話になりました。
+
+
+
+
+見てくださった皆さんありがとうございました！
+
+
+
+
+スキッツライブも、番組を生配信という本来なら異例…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
+        <title type="html"><![CDATA[いつもありがとうございます☺︎弓木奈於]]></title>
+        <id>http://blog.nogizaka46.com/nao.yumiki/2021/05/061579.php</id>
+        <link href="http://blog.nogizaka46.com/nao.yumiki/2021/05/061579.php"/>
+        <updated>2021-05-19T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！
+
+
+
+
+ページをクリックしてくださり、ありがとうございます(´ ˘ `∗)⸝*
+
+
+
+
+
+
+乃木坂46 4期生
+
+
+
+
+京都府出身
+
+
+
+
+
+弓木奈於（ゆみきなお）です☺︎
+
+
+
+
+
+
+
+
+
+
+
+
+まずは、
+ミュージックステーションさんに出演させていただき本当にありがとうございました。✨
+
+小さい頃から、リアルタイムで観れない時は悔しい顔をしながら録画をしているほど大好きな番組さんに出演させていただき、こんなにも貴重な経験をさせていただけた事に恐縮ながら感謝の気持ちでいっぱいです。
+
+
+
+経験させていただいた事を心に、これからも成長できるように精一杯頑張ります✨
+
+
+
+
+
+
+
+そして、
+
+9th YEAR BIRTHDAY LIVE ～4期生ライブ～
+
+本当にありがとうございました✨
+
+
+
+
+
+乃木坂46の大切なバースデーライブ
+
+
+目を輝かせながら見ていた1期生さん、2期生さん、3期生さん、先輩方のLIVE。
+
+
+
+4期生ライブ本番が始まる前に
+先輩方からのメッセージ、秋元真夏さんからのお手紙を読みました。
+
+私達のことを真剣に思って伝えてくださる言葉に思わず涙が溢れてしまいました。
+
+
+先輩…]]></summary>
         <author>
-            <name/>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Modern C++ by Building an Audio Plugin]]></title>
-        <id>60a694ab906c5207e3a7f544</id>
-        <link href="https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/"/>
-        <updated>2021-05-20T17:12:29.000Z</updated>
-        <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
+        <title type="html"><![CDATA[ありがとうね。　　　林]]></title>
+        <id>http://blog.nogizaka46.com/runa.hayashi/2021/05/061570.php</id>
+        <link href="http://blog.nogizaka46.com/runa.hayashi/2021/05/061570.php"/>
+        <updated>2021-05-18T07:54:01.000Z</updated>
+        <summary type="html"><![CDATA[本日もお疲れ様です。
+
+乃木坂46 4期生
+
+華咲くセブンのティーン、林瑠奈でございます。
+
+負けるな、しょげるな、林瑠奈　
+
+今日も一日頑張るな！！
+　
+
+　
+　
+
+
+
+　
+　
+
+　
+　
+
+　
+　
+
+髪型はひと月前から決めていました〜
+　
+
+若月さんイメージです☺︎
+　
+
+急いで撮ったからボサボサすんません。
+
+
+
+
+
+
+
+
+
+【9th YEAR BIRTHDAY LIVE 〜4期生ライブ〜】
+
+
+
+
+有難うございました。
+
+
+
+
+昨年12月に4期生ライブを開催してから、僅か5ヶ月。
+
+
+こんなにも早く時が過ぎたと感じるのも、その間に色々なことを経験させていただいたからだと思います。
+
+
+
+
+本当に有難いですね。
+
+
+
+
+本来、有観客での開催予定でしたが、皆様の安全が第一ということで配信のみの開催となりました。
+
+
+
+
+前回同様、配信ライブということでよりハードルが上がっていたと思うのですが、皆さんいかがでしたか？
+
+
+
+
+楽しんでいただけたのならこれ以上嬉しいことはないです。
+
+
+
+
+披露させて頂いた楽曲のひとつひとつの話は、
+
+
+
+
+クロミちゃんとの猫舌SHOWROOMでお話ししましたので少しだけ。
+
+…]]></summary>
         <author>
-            <name/>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started with Version Control Using Git]]></title>
-        <id>60a4b5c7906c5207e3a7e2bb</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-version-control-and-git/"/>
-        <updated>2021-05-20T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
+        <title type="html"><![CDATA[#錆びたコンパス]]></title>
+        <id>http://blog.nogizaka46.com/tamami.sakaguchi/2021/05/061567.php</id>
+        <link href="http://blog.nogizaka46.com/tamami.sakaguchi/2021/05/061567.php"/>
+        <updated>2021-05-18T06:18:01.000Z</updated>
+        <summary type="html"><![CDATA[さかぐち 坂道 登り坂！
+たまにはたまみと登ってね。
+　
+
+阪口珠美です
+
+
+
+初めてツーショットを撮っていただいた先輩は
+みり愛さんでした。
+一番年齢が近い先輩で
+色んなお話ができてみり愛さんの
+正直でまっすぐなところが好きで憧れです。
+　
+
+　
+純奈さんの明るくて
+いつも周りを笑顔にしている姿をみていて
+いつも幸せな気持ちになります。
+ぎゅっとしてもらった時に凄く安心します。
+
+
+
+
+　
+
+　
+
+
+　
+
+
+お2人が
+いつも優しい笑顔でお話しを
+聞いて下さるのが嬉しくて
+一緒にリハをしたりする時間が本当に幸せでした。
+　
+
+今もアンダラに向けてみんなで頑張って準備していて
+おふたりの姿を見る度にぎゅっと寂しい気持ちで
+
+いっぱいになってしまいます(._.)
+みりあさんと純奈さんと先輩方のあの楽しそうな
+空気感が大好きなのでそれももう見られないのかなあ
+とか考えて寂しくなります。
+　
+
+残りの時間、
+色んなことを教えてもらった分恩返ししていけるように
+感謝を伝えたいです！！
+そして心から大好きな先輩に
+もう少しの時間思う存分甘えちゃいます(˘ ˘ )
+
+　
+　
+
+　
+*～*～*～*～*～*～*～*～*～*～*…]]></summary>
         <author>
-            <name/>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript - A Free 7-hour Interactive Tutorial]]></title>
-        <id>60a36742906c5207e3a7da6e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-interactive-course/"/>
-        <updated>2021-05-20T14:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
+        <title type="html"><![CDATA[湿気(..)]]></title>
+        <id>http://blog.nogizaka46.com/sakura.endou/2021/05/061554.php</id>
+        <link href="http://blog.nogizaka46.com/sakura.endou/2021/05/061554.php"/>
+        <updated>2021-05-17T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[遠藤さくらです。
+  
+  
+  ミュージックビデオが公開されました。
+  
+  
+  
+  
+  
+  今回のMV﻿は、車！
+  
+  完成したのを見たら、とてもかっこいい！
+  映画のワンシーンみたいで見入ってしまうような映像になっています。
+  車の疾走感も迫力も、見ていてとても気持ちが良いです〜
+  
+  
+  
+  設定も細かくあったりするので、そちらをチェックしてからMVを見るとより面白いかも！
+  
+  まだ見てない方は是非見てみてください☺︎
+  
+  
+  車でのシーンやダンスシーンは、暴風だったり雨に降られちゃったり、何だか大変ではありましたが楽しんで撮影できました。
+  
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  衣装は赤色
+  
+  赤好き！
+  
+  パンツスタイル、動きやすかったです。
+  
+  
+  
+  着けていた手袋がぼろぼろになっていたので、生田さんと飛鳥さんが心配してくれました。
+  嬉しかった、、！
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  さて、4期生ライブ…]]></summary>
         <author>
-            <name/>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[光は愛　　早川聖来]]></title>
+        <id>http://blog.nogizaka46.com/seira.hayakawa/2021/05/061551.php</id>
+        <link href="http://blog.nogizaka46.com/seira.hayakawa/2021/05/061551.php"/>
+        <updated>2021-05-16T13:42:01.000Z</updated>
+        <summary type="html"><![CDATA[みなさん、こんにちは。
+　
+大阪府出身、20歳の早川聖来です。お見知り置きを☺︎
+　
+　
+　
+ブログ、少し遅くなってしまいました。ごめんなさい。
+　
+　
+先週の土曜日に
+9th YEAR BIRTHDAY LIVE 〜4期生ライブ〜
+がありました。
+
+見てくださったみなさん、ありがとうございました！
+　
+　
+楽しんでいただけたでしょうか？
+　
+見てくださったみなさんが、少しでも楽しんでいただけていたらうれしいです。
+　
+今回は正直、自分自身と向き合って、もがくことの多いライブでした。
+　
+　
+頑張らなきゃ、頑張らなきゃと突き進もうとしても、何かに足を掴まれている感覚で、
+　
+　
+今まではもう少し時間に余裕もあって、大好きなメンバーと一緒ならなんでも恐れず挑戦できると思っていましたが、
+　
+ここ最近は自分が分からなくなってしまうこともあって、
+　
+　
+先輩方がつなげてきたバースデーライブを失敗させてしまったらどうしようとか、
+　
+見ていただいているみなさんに笑顔を届けられなかったらどうしようとか、
+　
+どうして私はできないんだろうと不安になって、ネガティブな自分とポジティブな自分が一日に何度もきて、
+　
+不安な…]]></summary>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[てるてる坊主。]]></title>
+        <id>http://blog.nogizaka46.com/rika.satou/2021/05/061541.php</id>
+        <link href="http://blog.nogizaka46.com/rika.satou/2021/05/061541.php"/>
+        <updated>2021-05-16T09:30:01.000Z</updated>
+        <summary type="html"><![CDATA[雨でも
+愛される人になりたいな︎︎︎︎︎☺︎
+
+
+
+
+
+
+
+
+気持ちは晴れで行こう
+
+
+
+
+
+
+
+
+車に乗っていると不安に見える外の天気も
+降りてみたら違って見えるよ
+外を眺めるだけじゃなくて
+飛び出してみたら案外温かいのかもしれない
+
+
+
+
+
+
+
+
+
+
+こんにちは
+
+
+乃木坂46 4期生 岩手県出身
+
+
+佐藤璃果です。
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+いつかの写真♡
+
+
+
+
+誰でしょうか？？♡
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+今日は質問大会！！
+
+
+
+
+
+
+
+
+
+
+
+
+〜〜〜質問〜〜〜
+
+
+
+
+○ コンビニでついつい買っちゃうものは？
+
+
+
+
+
+
+セブンイレブンさんの
+アイスコーヒー、
+甘栗！！
+
+
+
+
+
+
+○ 新生活一人暮らしで心がけることって何かあるかな？
+
+
+
+
+自由に浸りすぎないこと、、
+
+
+
+
+
+
+
+
+○ 最近よく見る花はなんですか？
+
+
+
+
+家の中のかすみ草✿
+
+
+
+
+
+
+
+
+○ 普段何時頃に寝ますか？？
+
+
+
+
+2時か3時
+
+
+
+
+
+
+この間足パカしてたら寝てしまって
+足を上に上げた状態でも人間寝れるんだなってびっくりしました、
+
+
+
+
+1時間半後に目覚めた( 'Θ' )
+
+
+
+
+これ1回じゃ…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
-        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
-        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
-        <updated>2021-05-20T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <title type="html"><![CDATA[終わらせた宿題は世界一の宝物(提出するまで)]]></title>
+        <id>http://blog.nogizaka46.com/miyu.matsuo/2021/05/061545.php</id>
+        <link href="http://blog.nogizaka46.com/miyu.matsuo/2021/05/061545.php"/>
+        <updated>2021-05-16T09:12:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは〜
+
+
+千葉県出身、高校三年生、17歳の
+
+
+松尾美佑です¨̮
+
+
+まつおみゆです¨̮
+
+
+
+
+
+
+話すことがいっぱいです
+
+
+感謝とか、感謝とか、感謝とかˊᵕˋ
+
+
+
+
+
+
+まずは、
+
+
+ミュージックステーションさんありがとうございました！
+
+
+小さい頃から見ていた番組に4期生16人で出演させて頂き、こんなにも有難い機会を下さったことに感謝がいっぱいです。
+
+
+『I see...』とても楽しかったです‪‪☺︎‬
+
+
+見て下さった皆さんに楽しい気持ちが届いていたらしあわせですˊᵕˋ
+
+
+Mステカメラにもなおちゃんと2人で登場させて頂きました！
+2人で「誰にも負けないこと」を話しました〜
+ぜひ見てみて下さい( ੭ ･ᴗ･ )੭
+
+
+
+
+そして今回は新衣装を用意して下さいました！
+
+
+
+
+
+
+oh...( ˙᷄ｏ͗˙᷅ )
+全身の写真も撮ればよかった...
+
+
+すっっごい素敵な衣装なのです
+
+
+パターンも沢山あってそれぞれ本当に可愛くって！！
+
+
+また着る機会があったら今度は絶対に全身で写真を撮ろうと心に決めました
+
+
+皆さん本当にありがとうございました(*ˊᵕˋ*)
+
+
+
+
+
+
+
+
+
+
+
+
+そして、4…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <title type="html"><![CDATA[だいすきなみなさんへ]]></title>
+        <id>http://blog.nogizaka46.com/junna.itou/2021/05/061543.php</id>
+        <link href="http://blog.nogizaka46.com/junna.itou/2021/05/061543.php"/>
+        <updated>2021-05-16T09:00:07.000Z</updated>
+        <summary type="html"><![CDATA[私、伊藤純奈は
+乃木坂46を卒業します。
+　
+
+　
+　
+
+　
+　
+
+　
+14歳で乃木坂に入って
+今は22歳。
+8年間とてもとてもお世話になりました。
+何もできない、何もわからない状態から
+スタートしてたくさん自分のことを
+知れた気がします。
+　
+
+　
+　
+
+　
+
+周りの仲間たちが卒業をしていく中で
+自分もこの先のことを考えるようになりました。
+卒業について考える時間が増えて、悩んで、
+やっぱりいまの自分はもう乃木坂にいるのではなく
+知らない道に進んでいくべきだと思い、
+卒業を決めました。
+　
+
+　
+
+　
+まさか自分がアイドルになるなんて
+思ってもなかったし、たくさんの
+素敵な経験をさせてもらえて大好きで
+大切な仲間に出会えて、そしてなにより
+こんなにたくさんの方々に応援してもらえる
+なんて想像も出来なかった未来でした！
+本当に幸せです。幸せ者です。
+　
+
+　
+　
+
+　
+8年間。
+色んな事がありました。青春は
+全て乃木坂に捧げました！
+乃木坂が大好きだったからここまで
+続けられたのだと思います。
+　
+
+こんなに乃木坂をだいすきだと思えるのは
+スタッフさん、メンバー、応援して下さってる
+みなさんのおかげだと思いま…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Selectors to Style Your Web Page]]></title>
-        <id>60a341f5906c5207e3a7da61</id>
-        <link href="https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/"/>
-        <updated>2021-05-19T23:17:21.000Z</updated>
-        <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
-        <id>60a42386906c5207e3a7dfe2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
-        <updated>2021-05-19T21:09:01.000Z</updated>
-        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
-        <id>60a469ec906c5207e3a7e1b9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
-        <updated>2021-05-19T17:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Shubham Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
-        <id>60a53182906c5207e3a7e588</id>
-        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
-        <updated>2021-05-18T21:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
-        <id>60a3780f906c5207e3a7db5f</id>
-        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
-        <updated>2021-05-18T17:12:59.000Z</updated>
-        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Silvia O'Dwyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
-        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
-        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
-        <updated>2021-05-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
-        <updated>2021-05-18T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Ashley Kolodziej</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
-        <updated>2021-05-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Conference Platform We Use For Our Online Events: Hopin]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/"/>
-        <updated>2021-05-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amanda Annandale)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
-        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
-        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
-        <updated>2021-05-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
-        <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
-        <updated>2021-05-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Evolution Of Jamstack]]></title>
-        <id>https://smashingmagazine.com/2021/05/evolution-jamstack/</id>
-        <link href="https://smashingmagazine.com/2021/05/evolution-jamstack/"/>
-        <updated>2021-05-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Easing Functions For CSS Animations And Transitions]]></title>
-        <id>https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/</id>
-        <link href="https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/"/>
-        <updated>2021-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors]]></title>
-        <id>https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/</id>
-        <link href="https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/"/>
-        <updated>2021-04-23T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+            <name>2020年ブログ</name>
         </author>
     </entry>
 </feed>

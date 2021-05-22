@@ -1,570 +1,144 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "2020年ブログ",
+      "feedUrl": "https://blog.nogizaka46.com/atom.xml",
+      "siteUrl": "http://blog.nogizaka46.com/",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
+          "id": "http://blog.nogizaka46.com/renka.iwamoto/2021/05/061604.php",
           "author": null,
-          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 340,
-          "title": "v1.7.2"
+          "description": "おつかれんたん\n\n\n\n\n\n\n\n\n\n\n\n\n　\n\n　\n\n\n\n\n　\n　\n\n梅雨入りしたのかなというくらい最近は雨が多いですね...\n　\n\n雨に聴きたくなる曲はなんだろうなぁ。\n　\n\n　\n暑い季節は苦手なので早く秋が来て欲しいです。\n　\n\nでも夏のイベントはクリスマスの次に好き( ˶˙˙˶)\n　\n\nちなみに寒がりなので冬も苦手です。\n　\n\nクリスマスあるからなんとなく好きなだけです......\n　\n\n　\n　\n\n୨୧┈┈┈┈┈┈┈┈┈┈┈┈୨୧\n　\n\n　\n3期生ライブありがとうございました！\n　\n\nあの日から離れていくのが寂しいと感じるくらい凄く楽しくて最高な一日でした。\n　\n\n　\n　\n\n衣装パレードというブロックがあり、メンバーそれぞれが違う曲の衣装を着てパフォーマンスしたりしました。\n　\n\n　\n私はしおりと命は美しいの衣装を着させて頂きました！\n　\n\nそしてもうひとつはSingOutの衣装を☺︎‬\n　\n\n　\nみんなが違う衣装を着るってどういう感じなんだろうと思っていましたが実際に着てみるととても綺麗で、乃木坂の歴史も感じる事が出来て素敵だなぁと思いました。\n　\n\n　\n　\n\nリハ映像を確認してる時、他の3期生の知らな…",
+          "link": "http://blog.nogizaka46.com/renka.iwamoto/2021/05/061604.php",
+          "publishedOn": "2021-05-21T11:30:01.000Z",
+          "wordCount": 652,
+          "title": "これからの旅に"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
+          "id": "http://blog.nogizaka46.com/runa.hayashi/2021/05/061603.php",
           "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
+          "description": "本日もお疲れ様です。\n\n乃木坂46 4期生\n\n華咲くセブンのティーン、林瑠奈でございます。\n\n負けるな、しょげるな、林瑠奈　\n\n今日も一日頑張るな！！\n\n\n\n　\n\n　\n........................................................................\n\n\n\nQ 質問「掘り炬燵って安心しません？」\n\nA 安心するんかな？笑\n角に足をぶつけたときの痛みには耐えられない\n\n\n\n\nQ 最近よく聴く曲があったら教えて欲しいです♡\n\n\nA iriさんの「Wonderland」\n\n\n\n\nQ 最近はなにかありましたか？\n\n\nA 何かしかないよ\n\n\n\n\nQ ・女の子のファンをどう思いますか？？\n\n\nA らびらびらび！！♡♡♡\n\n\n\n\n\nQ 刹那少女の写真もかわいすぎる！リップの色かわいいんだけどどこの？\n\n\nA rom&ndさんのJLティント(#06フィグフィグ)を使ってました。\n\n\n\n\n\nQ 物語シリーズが好きと聞いておりますが、好きなキャラクターはだれですか？？？？？？\n\n\nA 戦場ヶ原ひたぎちゃんと阿良々木火憐ちゃんが大好きです。ホッチキスされたい。\n\n\n\n\n…",
+          "link": "http://blog.nogizaka46.com/runa.hayashi/2021/05/061603.php",
+          "publishedOn": "2021-05-21T11:12:01.000Z",
+          "wordCount": 704,
+          "title": "クエスチョン！！！　　ハヤシン！！！"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "id": "http://blog.nogizaka46.com/haruka.kuromi/2021/05/061590.php",
           "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
+          "description": "2月の全体ライブから始まった\n\n\n\n\n\n\n\n\n\n　\n\n9th year birthday live✨が完結し、\n　\n\nいよいよ来週は・・・\n　\n\n『アンダーライブ2021』だねー！\n　\n\n＊\n　\n今日も一日、お疲れ様です✩︎⡱ \n　\n\nココを見つけてくれて、ありがとうー♪\n　\n\nちょこっとだけ自己紹介させてね〜☺︎\n♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪\n黒見 明香（くろみ はるか）\n2004年1月19日生まれ　17才\n香港生まれ・東京都出身です\nあだ名： くろみん・黒見ちゃん\n3の倍数9・6・3(くろみ)\nと覚えてもらえたら嬉しいな♪\n\n♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪:*:･･:*:･･:*:･･:*:･･:*:･･:*:･♪\n\n-:-:୨୧:-:- 先輩方がつないできて下さった、大切なバースデーライブのステージ✨\n\n乃木坂46 デビュー記念日2/22の前夜祭から始まった\n『乃木坂46 9th YEAR BIRTHDAY LIVE』\n　\n\n　\n全体ライブ、2期生、1期生、4期生、3期生ライブと…",
+          "link": "http://blog.nogizaka46.com/haruka.kuromi/2021/05/061590.php",
+          "publishedOn": "2021-05-20T12:54:01.000Z",
+          "wordCount": 1019,
+          "title": "つながっていく場所"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
+          "id": "http://blog.nogizaka46.com/kaede.satou/2021/05/061588.php",
           "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
+          "description": "こんばんは〜\n　\n\n今日もお疲れ様です\n　\n\n　\n佐藤楓です\n　\n\n　\n\n\n自分で作ったものを食べるのが1番痩せると私の研究でわかったので次のライブまで今は頑張ってお料理する期間です、がんばるぞ〜\n簡単なレシピあったら教えてください！\n　\n\n　\n　\n\n　\n純奈さんみり愛さん、大好きなお2人です\n　\n\n　\nさりげない優しさで包み込んでくださる純奈さん\n歳は私の方が上ですが勝手にお姉さんのように思っていました...\nちょっと気持ちが落ちていた時、純奈さんは何気なくだったかもしれませんが隣にそっと来てくださったのがとても嬉しくてなんだか落ち着いたのを覚えています\n私がいつも先輩方が話してるのを見てニヤニヤしてると真っ先に純奈さんが気づいて突っ込んでくれます、（笑）そんなとこも含めて全部全部大好きです\n　\n\n　\nいつからか私をでんぷんなどなど独特なあだ名で呼んでくださって、\nプライベートでも一緒にご飯に行かせていただいたりとなんでも話せるみり愛さん\n私のくだらない話から悩みまで聞いてくださり時にはどこにも行き場のない口に出せない気持ちをさりげなく察してくださる優しい先輩です\nみり愛さんがくれた言葉が私の心の支えになっ…",
+          "link": "http://blog.nogizaka46.com/kaede.satou/2021/05/061588.php",
+          "publishedOn": "2021-05-20T10:30:01.000Z",
+          "wordCount": 784,
+          "title": "想いを込めて　264."
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
+          "id": "http://blog.nogizaka46.com/mio.yakubo/2021/05/061586.php",
           "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
+          "description": "こんにちは！\n乃木坂46 4期生の矢久保美緒です。\nよろしくお願いします！\n　\n　\n　\n今日、19時からのぎおび配信します！\nお時間のある方は是非見に来てください^^\nお話しましょう〜〜\n　\n\n\n　\nミュージックステーション、見ていただけたでしょうか？\n　\n嬉しくて嬉しくてしょうがなかったな、\n何回も録画を見返しています。\n一生の思い出！！\n　\nリハーサルの時から緊張しまくりでした。\n　\n本番大丈夫だった？どうだったかな？\n感想聞かせてください^^\n　\n　\n　\nものすごくかわいい衣装を作っていただきました✨ 実はね、さくちゃんと形が一緒で色違いだったの！！！\nヘアアクセサリーも沢山あって、選ぶのもウキウキでした^^ わたしはポニーテールをしたのでりぼんをつけたよ〜\n　\n\n\n　\n　\n4期生ライブの｢I see...｣のとき\n裏でモニターを見ながらマネージャーさんやメイクさんがみんなで踊ってくれてたんです！！\nライブが終わったあと送られてきていた動画を見て幸せな気持ちになりました☺️\n　\n\nそんな4期生ライブについてはまた書きますね。だいぶ時間があいてしまって申し訳ないです、、\n　\n　\n　\n　\n　\n　\n　\n◎ ヤ…",
+          "link": "http://blog.nogizaka46.com/mio.yakubo/2021/05/061586.php",
+          "publishedOn": "2021-05-20T07:20:00.000Z",
+          "wordCount": 802,
+          "title": "何を着たらいいかわからない気候だな〜"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
+          "id": "http://blog.nogizaka46.com/miyu.matsuo/2021/05/061583.php",
           "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
+          "description": "こんにちは〜\n\n\n千葉県出身、高校3年生、17歳\n\n\n松尾美佑です¨̮\n\n\n\n\nアップトゥボーイさんのオフショットです‪⸜‎✿ ‎⸝‍\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n私が初めて1人で登場させて頂いたのがアップトゥボーイさんで、それが約1年前なんですね\n\n\nその時は3月なのに雪が降っていました☃︎\n\n\n今年は桜が降っていました⸜‪✿‬⸝‍\n\n\nまた登場させて頂けた事が嬉しいです‪‪☺︎‬\n\n\nそしてインタビューではさくちゃんに届け〜とさくちゃん話もして下さいました\n\n\nアップトゥボーイさんはゆっくり見守って下さっているそうですˊᵕˋ\nお優しいˊᵕˋ\n\n\n\n\n裏表紙には守屋麗奈ちゃんがいます⸜❤︎⸝‍(櫻坂46さん)\n\n\nしばらく会えていないなぁ\n\n\nげんきー？\n\n\n\n\n研修生の時のみんなの中だと、\n最近は日向坂46さんの未来虹ちゃんと茉莉ちゃんと陽世ぱるに会えました〜‪‪☺︎‬\n\n\n可愛かった( ˃̶͈ᴗ˂̶͈ )\n\n\n\n\n\n\n\n\n久しぶりにお返事の会をしますね\n\n\n\n\n✽ 春らしいこと何かした？\n\n\n蜂を毎日見てる( Ꙭ )\n\n\n\n\n✽ 高校三年生になった心境はどう？？\n\n\nう〜ん、行事とかも無くてどこか…",
+          "link": "http://blog.nogizaka46.com/miyu.matsuo/2021/05/061583.php",
+          "publishedOn": "2021-05-19T11:18:01.000Z",
+          "wordCount": 811,
+          "title": "桜色"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
+          "id": "http://blog.nogizaka46.com/runa.hayashi/2021/05/061580.php",
           "author": null,
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "title": "v1.3.1"
+          "description": "本日もお疲れ様です。\n\n乃木坂46 4期生\n\n華咲くセブンのティーン、林瑠奈でございます。\n\n負けるな、しょげるな、林瑠奈　\n\n今日も一日頑張るな！！\n\n\n\n　\n\n　\n...........................................................................\n　\n\n\nブログに書くのが遅くなってしまいましたが、\n\n\n\n\n【乃木坂スター誕生！】が始まりました！\n\n\n\n\nこれまでノギザカスキッツを1年間やらせていただいて来ましたが、\n\n\n\n\n今度は4期生が昭和・平成歌謡に挑戦しています！\n\n\n\n\nスキッツで得た事は正直めちゃめちゃ大きいです。\n\n\n\n\n自分を知ってもらうチャンスでもあったし、いかに目を留めてもらえるかを常に考えて作ってきました。\n\n\n\n\n思い返せば恥ずかしいものもありますが、その全てが今の自分を作り上げているなと。\n\n\n\n\n本当に貴重で有難い経験をさせていただいて幸せです。\n\n\n\n\nさらばさん含め、多くの方々にお世話になりました。\n\n\n\n\n見てくださった皆さんありがとうございました！\n\n\n\n\nスキッツライブも、番組を生配信という本来なら異例…",
+          "link": "http://blog.nogizaka46.com/runa.hayashi/2021/05/061580.php",
+          "publishedOn": "2021-05-19T09:30:01.000Z",
+          "wordCount": 664,
+          "title": "懐かしいよね　　　林"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
+          "id": "http://blog.nogizaka46.com/nao.yumiki/2021/05/061579.php",
           "author": null,
-          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 293,
-          "title": "v1.3.0"
+          "description": "こんにちは！\n\n\n\n\nページをクリックしてくださり、ありがとうございます(´ ˘ `∗)⸝*\n\n\n\n\n\n\n乃木坂46 4期生\n\n\n\n\n京都府出身\n\n\n\n\n\n弓木奈於（ゆみきなお）です☺︎\n\n\n\n\n\n\n\n\n\n\n\n\nまずは、\nミュージックステーションさんに出演させていただき本当にありがとうございました。✨\n\n小さい頃から、リアルタイムで観れない時は悔しい顔をしながら録画をしているほど大好きな番組さんに出演させていただき、こんなにも貴重な経験をさせていただけた事に恐縮ながら感謝の気持ちでいっぱいです。\n\n\n\n経験させていただいた事を心に、これからも成長できるように精一杯頑張ります✨\n\n\n\n\n\n\n\nそして、\n\n9th YEAR BIRTHDAY LIVE ～4期生ライブ～\n\n本当にありがとうございました✨\n\n\n\n\n\n乃木坂46の大切なバースデーライブ\n\n\n目を輝かせながら見ていた1期生さん、2期生さん、3期生さん、先輩方のLIVE。\n\n\n\n4期生ライブ本番が始まる前に\n先輩方からのメッセージ、秋元真夏さんからのお手紙を読みました。\n\n私達のことを真剣に思って伝えてくださる言葉に思わず涙が溢れてしまいました。\n\n\n先輩…",
+          "link": "http://blog.nogizaka46.com/nao.yumiki/2021/05/061579.php",
+          "publishedOn": "2021-05-19T06:30:00.000Z",
+          "wordCount": 953,
+          "title": "いつもありがとうございます☺︎弓木奈於"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
+          "id": "http://blog.nogizaka46.com/runa.hayashi/2021/05/061570.php",
           "author": null,
-          "description": "Changed: favicon update.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
-          "publishedOn": "2021-05-05T05:19:03.000Z",
-          "wordCount": 270,
-          "title": "v1.2.3"
+          "description": "本日もお疲れ様です。\n\n乃木坂46 4期生\n\n華咲くセブンのティーン、林瑠奈でございます。\n\n負けるな、しょげるな、林瑠奈　\n\n今日も一日頑張るな！！\n　\n\n　\n　\n\n\n\n　\n　\n\n　\n　\n\n　\n　\n\n髪型はひと月前から決めていました〜\n　\n\n若月さんイメージです☺︎\n　\n\n急いで撮ったからボサボサすんません。\n\n\n\n\n\n\n\n\n\n【9th YEAR BIRTHDAY LIVE 〜4期生ライブ〜】\n\n\n\n\n有難うございました。\n\n\n\n\n昨年12月に4期生ライブを開催してから、僅か5ヶ月。\n\n\nこんなにも早く時が過ぎたと感じるのも、その間に色々なことを経験させていただいたからだと思います。\n\n\n\n\n本当に有難いですね。\n\n\n\n\n本来、有観客での開催予定でしたが、皆様の安全が第一ということで配信のみの開催となりました。\n\n\n\n\n前回同様、配信ライブということでよりハードルが上がっていたと思うのですが、皆さんいかがでしたか？\n\n\n\n\n楽しんでいただけたのならこれ以上嬉しいことはないです。\n\n\n\n\n披露させて頂いた楽曲のひとつひとつの話は、\n\n\n\n\nクロミちゃんとの猫舌SHOWROOMでお話ししましたので少しだけ。\n\n…",
+          "link": "http://blog.nogizaka46.com/runa.hayashi/2021/05/061570.php",
+          "publishedOn": "2021-05-18T07:54:01.000Z",
+          "wordCount": 657,
+          "title": "ありがとうね。　　　林"
         },
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
+          "id": "http://blog.nogizaka46.com/tamami.sakaguchi/2021/05/061567.php",
           "author": null,
-          "description": "Added: Display CLI version in footer.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
-          "publishedOn": "2021-05-05T05:18:52.000Z",
-          "wordCount": 273,
-          "title": "v1.2.1"
-        }
-      ]
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=340991",
-          "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1166,
-          "title": "Should DevTools teach the CSS cascade?"
+          "description": "さかぐち 坂道 登り坂！\nたまにはたまみと登ってね。\n　\n\n阪口珠美です\n\n\n\n初めてツーショットを撮っていただいた先輩は\nみり愛さんでした。\n一番年齢が近い先輩で\n色んなお話ができてみり愛さんの\n正直でまっすぐなところが好きで憧れです。\n　\n\n　\n純奈さんの明るくて\nいつも周りを笑顔にしている姿をみていて\nいつも幸せな気持ちになります。\nぎゅっとしてもらった時に凄く安心します。\n\n\n\n\n　\n\n　\n\n\n　\n\n\nお2人が\nいつも優しい笑顔でお話しを\n聞いて下さるのが嬉しくて\n一緒にリハをしたりする時間が本当に幸せでした。\n　\n\n今もアンダラに向けてみんなで頑張って準備していて\nおふたりの姿を見る度にぎゅっと寂しい気持ちで\n\nいっぱいになってしまいます(._.)\nみりあさんと純奈さんと先輩方のあの楽しそうな\n空気感が大好きなのでそれももう見られないのかなあ\nとか考えて寂しくなります。\n　\n\n残りの時間、\n色んなことを教えてもらった分恩返ししていけるように\n感謝を伝えたいです！！\nそして心から大好きな先輩に\nもう少しの時間思う存分甘えちゃいます(˘ ˘ )\n\n　\n　\n\n　\n*～*～*～*～*～*～*～*～*～*～*…",
+          "link": "http://blog.nogizaka46.com/tamami.sakaguchi/2021/05/061567.php",
+          "publishedOn": "2021-05-18T06:18:01.000Z",
+          "wordCount": 678,
+          "title": "#錆びたコンパス"
         },
         {
-          "id": "https://css-tricks.com/?p=340825",
-          "author": "Adam Rackis",
-          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
-          "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3256,
-          "title": "Svelte for the Experienced React Dev"
+          "id": "http://blog.nogizaka46.com/sakura.endou/2021/05/061554.php",
+          "author": null,
+          "description": "遠藤さくらです。\n  \n  \n  ミュージックビデオが公開されました。\n  \n  \n  \n  \n  \n  今回のMV﻿は、車！\n  \n  完成したのを見たら、とてもかっこいい！\n  映画のワンシーンみたいで見入ってしまうような映像になっています。\n  車の疾走感も迫力も、見ていてとても気持ちが良いです〜\n  \n  \n  \n  設定も細かくあったりするので、そちらをチェックしてからMVを見るとより面白いかも！\n  \n  まだ見てない方は是非見てみてください☺︎\n  \n  \n  車でのシーンやダンスシーンは、暴風だったり雨に降られちゃったり、何だか大変ではありましたが楽しんで撮影できました。\n  \n  \n  \n  \n \n  \n  \n  \n \n  \n  \n  \n  \n  衣装は赤色\n  \n  赤好き！\n  \n  パンツスタイル、動きやすかったです。\n  \n  \n  \n  着けていた手袋がぼろぼろになっていたので、生田さんと飛鳥さんが心配してくれました。\n  嬉しかった、、！\n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  さて、4期生ライブ…",
+          "link": "http://blog.nogizaka46.com/sakura.endou/2021/05/061554.php",
+          "publishedOn": "2021-05-17T10:00:01.000Z",
+          "wordCount": 614,
+          "title": "湿気(..)"
         },
         {
-          "id": "https://css-tricks.com/?p=340919",
-          "author": "Chris Coyier",
-          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://csshell.dev/",
-          "publishedOn": "2021-05-21T14:29:16.000Z",
-          "wordCount": 295,
-          "title": "CSS Hell"
+          "id": "http://blog.nogizaka46.com/seira.hayakawa/2021/05/061551.php",
+          "author": null,
+          "description": "みなさん、こんにちは。\n　\n大阪府出身、20歳の早川聖来です。お見知り置きを☺︎\n　\n　\n　\nブログ、少し遅くなってしまいました。ごめんなさい。\n　\n　\n先週の土曜日に\n9th YEAR BIRTHDAY LIVE 〜4期生ライブ〜\nがありました。\n\n見てくださったみなさん、ありがとうございました！\n　\n　\n楽しんでいただけたでしょうか？\n　\n見てくださったみなさんが、少しでも楽しんでいただけていたらうれしいです。\n　\n今回は正直、自分自身と向き合って、もがくことの多いライブでした。\n　\n　\n頑張らなきゃ、頑張らなきゃと突き進もうとしても、何かに足を掴まれている感覚で、\n　\n　\n今まではもう少し時間に余裕もあって、大好きなメンバーと一緒ならなんでも恐れず挑戦できると思っていましたが、\n　\nここ最近は自分が分からなくなってしまうこともあって、\n　\n　\n先輩方がつなげてきたバースデーライブを失敗させてしまったらどうしようとか、\n　\n見ていただいているみなさんに笑顔を届けられなかったらどうしようとか、\n　\nどうして私はできないんだろうと不安になって、ネガティブな自分とポジティブな自分が一日に何度もきて、\n　\n不安な…",
+          "link": "http://blog.nogizaka46.com/seira.hayakawa/2021/05/061551.php",
+          "publishedOn": "2021-05-16T13:42:01.000Z",
+          "wordCount": 997,
+          "title": "光は愛　　早川聖来"
         },
         {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 929,
-          "title": "JSON in CSS"
+          "id": "http://blog.nogizaka46.com/rika.satou/2021/05/061541.php",
+          "author": null,
+          "description": "雨でも\n愛される人になりたいな︎︎︎︎︎☺︎\n\n\n\n\n\n\n\n\n気持ちは晴れで行こう\n\n\n\n\n\n\n\n\n車に乗っていると不安に見える外の天気も\n降りてみたら違って見えるよ\n外を眺めるだけじゃなくて\n飛び出してみたら案外温かいのかもしれない\n\n\n\n\n\n\n\n\n\n\nこんにちは\n\n\n乃木坂46 4期生 岩手県出身\n\n\n佐藤璃果です。\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\nいつかの写真♡\n\n\n\n\n誰でしょうか？？♡\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n今日は質問大会！！\n\n\n\n\n\n\n\n\n\n\n\n\n〜〜〜質問〜〜〜\n\n\n\n\n○ コンビニでついつい買っちゃうものは？\n\n\n\n\n\n\nセブンイレブンさんの\nアイスコーヒー、\n甘栗！！\n\n\n\n\n\n\n○ 新生活一人暮らしで心がけることって何かあるかな？\n\n\n\n\n自由に浸りすぎないこと、、\n\n\n\n\n\n\n\n\n○ 最近よく見る花はなんですか？\n\n\n\n\n家の中のかすみ草✿\n\n\n\n\n\n\n\n\n○ 普段何時頃に寝ますか？？\n\n\n\n\n2時か3時\n\n\n\n\n\n\nこの間足パカしてたら寝てしまって\n足を上に上げた状態でも人間寝れるんだなってびっくりしました、\n\n\n\n\n1時間半後に目覚めた( 'Θ' )\n\n\n\n\nこれ1回じゃ…",
+          "link": "http://blog.nogizaka46.com/rika.satou/2021/05/061541.php",
+          "publishedOn": "2021-05-16T09:30:01.000Z",
+          "wordCount": 779,
+          "title": "てるてる坊主。"
         },
         {
-          "id": "https://css-tricks.com/?p=340933",
-          "author": "Chris Coyier",
-          "description": "Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …\nThe post Learn CSS! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://web.dev/learn/css/",
-          "publishedOn": "2021-05-20T21:51:43.000Z",
-          "wordCount": 1040,
-          "title": "Learn CSS!"
+          "id": "http://blog.nogizaka46.com/miyu.matsuo/2021/05/061545.php",
+          "author": null,
+          "description": "こんにちは〜\n\n\n千葉県出身、高校三年生、17歳の\n\n\n松尾美佑です¨̮\n\n\nまつおみゆです¨̮\n\n\n\n\n\n\n話すことがいっぱいです\n\n\n感謝とか、感謝とか、感謝とかˊᵕˋ\n\n\n\n\n\n\nまずは、\n\n\nミュージックステーションさんありがとうございました！\n\n\n小さい頃から見ていた番組に4期生16人で出演させて頂き、こんなにも有難い機会を下さったことに感謝がいっぱいです。\n\n\n『I see...』とても楽しかったです‪‪☺︎‬\n\n\n見て下さった皆さんに楽しい気持ちが届いていたらしあわせですˊᵕˋ\n\n\nMステカメラにもなおちゃんと2人で登場させて頂きました！\n2人で「誰にも負けないこと」を話しました〜\nぜひ見てみて下さい( ੭ ･ᴗ･ )੭\n\n\n\n\nそして今回は新衣装を用意して下さいました！\n\n\n\n\n\n\noh...( ˙᷄ｏ͗˙᷅ )\n全身の写真も撮ればよかった...\n\n\nすっっごい素敵な衣装なのです\n\n\nパターンも沢山あってそれぞれ本当に可愛くって！！\n\n\nまた着る機会があったら今度は絶対に全身で写真を撮ろうと心に決めました\n\n\n皆さん本当にありがとうございました(*ˊᵕˋ*)\n\n\n\n\n\n\n\n\n\n\n\n\nそして、4…",
+          "link": "http://blog.nogizaka46.com/miyu.matsuo/2021/05/061545.php",
+          "publishedOn": "2021-05-16T09:12:01.000Z",
+          "wordCount": 887,
+          "title": "終わらせた宿題は世界一の宝物(提出するまで)"
         },
         {
-          "id": "https://css-tricks.com/?p=340715",
-          "author": "Jhey Tompkins",
-          "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
-          "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1725,
-          "title": "Can We Create a “Resize Hack” With Container Queries?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340897",
-          "author": "Chris Coyier",
-          "description": "Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …\nThe post fit-content and fit-content() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html",
-          "publishedOn": "2021-05-20T14:20:56.000Z",
-          "wordCount": 1196,
-          "title": "fit-content and fit-content()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340731",
-          "author": "Chris Coyier",
-          "description": "The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …\nThe post Notion API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/notion-api/",
-          "publishedOn": "2021-05-19T23:18:42.000Z",
-          "wordCount": 1042,
-          "title": "Notion API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340692",
-          "author": "Shubham Jain",
-          "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
-          "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1606,
-          "title": "svg-loader: A Different Way to Work With External SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340613",
-          "author": "Chris Coyier",
-          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
-          "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 1082,
-          "title": "Pinned Audio WordPress Theme"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2401,
-          "title": "How to Create Neon Text With CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2908,
-          "title": "A Love Letter to HTML & CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2298,
-          "title": "Auto-Generated Social Media Images"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
-          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
-          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
-          "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-          "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auth0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
-          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "author": "hello@smashingmagazine.com (Amanda Annandale)",
-          "description": "At the beginning of 2020, the SmashingConf team was ready for a new year. We had so many things that excited us. New speakers, new workshops, new cities, new attendees, new experiences. And as we all know, 2020 had other ideas. With so many people working from home, we thought we would bring our [Smashing workshops](https://smashingconf.com/online-workshops/) from our home offices to yours — but how?",
-          "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
-          "publishedOn": "2021-05-11T10:00:00.000Z",
-          "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
-          "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
-          "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2139,
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
-          "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
-          "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
-          "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
-          "publishedOn": "2021-04-23T08:30:00.000Z",
-          "wordCount": 2430,
-          "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "6098ce302cd0545b5e944d0b",
-          "author": "",
-          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
-          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
-          "publishedOn": "2021-05-21T15:33:45.000Z",
-          "wordCount": 4309,
-          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": "",
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
-        },
-        {
-          "id": "60a694ab906c5207e3a7f544",
-          "author": "",
-          "description": "A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an",
-          "link": "https://www.freecodecamp.org/news/learn-modern-cpp-by-building-an-audio-plugin/",
-          "publishedOn": "2021-05-20T17:12:29.000Z",
-          "wordCount": 436,
-          "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": "",
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": "",
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
-        },
-        {
-          "id": "60a341f5906c5207e3a7da61",
-          "author": "",
-          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
-          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
-          "publishedOn": "2021-05-19T23:17:21.000Z",
-          "wordCount": 2742,
-          "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": "",
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2087,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
-        },
-        {
-          "id": "60a469ec906c5207e3a7e1b9",
-          "author": "",
-          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
-          "publishedOn": "2021-05-19T17:30:08.000Z",
-          "wordCount": 1981,
-          "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": "",
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
-        },
-        {
-          "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
-          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
-          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-05-18T17:12:59.000Z",
-          "wordCount": 1973,
-          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
+          "id": "http://blog.nogizaka46.com/junna.itou/2021/05/061543.php",
+          "author": null,
+          "description": "私、伊藤純奈は\n乃木坂46を卒業します。\n　\n\n　\n　\n\n　\n　\n\n　\n14歳で乃木坂に入って\n今は22歳。\n8年間とてもとてもお世話になりました。\n何もできない、何もわからない状態から\nスタートしてたくさん自分のことを\n知れた気がします。\n　\n\n　\n　\n\n　\n\n周りの仲間たちが卒業をしていく中で\n自分もこの先のことを考えるようになりました。\n卒業について考える時間が増えて、悩んで、\nやっぱりいまの自分はもう乃木坂にいるのではなく\n知らない道に進んでいくべきだと思い、\n卒業を決めました。\n　\n\n　\n\n　\nまさか自分がアイドルになるなんて\n思ってもなかったし、たくさんの\n素敵な経験をさせてもらえて大好きで\n大切な仲間に出会えて、そしてなにより\nこんなにたくさんの方々に応援してもらえる\nなんて想像も出来なかった未来でした！\n本当に幸せです。幸せ者です。\n　\n\n　\n　\n\n　\n8年間。\n色んな事がありました。青春は\n全て乃木坂に捧げました！\n乃木坂が大好きだったからここまで\n続けられたのだと思います。\n　\n\nこんなに乃木坂をだいすきだと思えるのは\nスタッフさん、メンバー、応援して下さってる\nみなさんのおかげだと思いま…",
+          "link": "http://blog.nogizaka46.com/junna.itou/2021/05/061543.php",
+          "publishedOn": "2021-05-16T09:00:07.000Z",
+          "wordCount": 531,
+          "title": "だいすきなみなさんへ"
         }
       ]
     }
