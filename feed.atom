@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T00:49:58.552Z</updated>
+    <updated>2021-05-26T00:59:46.073Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
     <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[#錆びたコンパス MV公開]]></title>
+        <id>http://blog.nogizaka46.com/rena.yamazaki/2021/05/061635.php</id>
+        <link href="http://blog.nogizaka46.com/rena.yamazaki/2021/05/061635.php"/>
+        <updated>2021-05-25T06:18:01.000Z</updated>
+        <summary type="html"><![CDATA[5月21日に、24歳になりました！ 各所でお祝いしてくださった皆様 ありがとう...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[願わくは]]></title>
+        <id>http://blog.nogizaka46.com/ayane.suzuki/2021/05/061633.php</id>
+        <link href="http://blog.nogizaka46.com/ayane.suzuki/2021/05/061633.php"/>
+        <updated>2021-05-24T23:48:01.000Z</updated>
+        <summary type="html"><![CDATA[お絵かき坂道という企画で、小賀ちさと先生が私のイラストを描いてくださりました。背...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12個。太陽のえがお]]></title>
         <id>http://blog.nogizaka46.com/hazuki.mukai/2021/05/061628.php</id>
