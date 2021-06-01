@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T01:46:36.228Z</updated>
+    <updated>2021-06-01T02:05:58.275Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
     <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6月生まれのみなさんおめでとうございます]]></title>
+        <id>http://blog.nogizaka46.com/tamami.sakaguchi/2021/06/061715.php</id>
+        <link href="http://blog.nogizaka46.com/tamami.sakaguchi/2021/06/061715.php"/>
+        <updated>2021-06-01T01:12:01.000Z</updated>
+        <summary type="html"><![CDATA[本日！のぎおび担当します(・ᴗ・)20時から！ぜひ見に来てくださーい♡　　　さ...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万回]]></title>
+        <id>http://blog.nogizaka46.com/rei.seimiya/2021/05/061710.php</id>
+        <link href="http://blog.nogizaka46.com/rei.seimiya/2021/05/061710.php"/>
+        <updated>2021-05-31T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[まずはお知らせ！　6/2 水曜日 20:00〜『ミラクル9』に、舞台でご一緒して...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qさま!!明日です☺︎]]></title>
         <id>http://blog.nogizaka46.com/yuri.kitagawa/2021/05/061695.php</id>
