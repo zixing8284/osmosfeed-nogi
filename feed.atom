@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T02:05:58.275Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T02:13:43.911Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
     <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA["東大王"の明日と青色。]]></title>
+        <id>http://blog.nogizaka46.com/yuri.kitagawa/2021/06/061723.php</id>
+        <link href="http://blog.nogizaka46.com/yuri.kitagawa/2021/06/061723.php"/>
+        <updated>2021-06-01T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[今日もとってもうれしいお知らせです☺︎明日、6月2日！19:00～20:00！...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[散らかる]]></title>
+        <id>http://blog.nogizaka46.com/yuna.shibata/2021/06/061717.php</id>
+        <link href="http://blog.nogizaka46.com/yuna.shibata/2021/06/061717.php"/>
+        <updated>2021-06-01T04:36:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！柴田柚菜です最近、大人キャンペーン中なんですちょっと髪の毛を巻いて...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6月生まれのみなさんおめでとうございます]]></title>
         <id>http://blog.nogizaka46.com/tamami.sakaguchi/2021/06/061715.php</id>
