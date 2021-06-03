@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T02:13:43.911Z</updated>
+    <updated>2021-06-03T01:51:05.869Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
     <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ちみ]]></title>
+        <id>http://blog.nogizaka46.com/ayane.suzuki/2021/06/061733.php</id>
+        <link href="http://blog.nogizaka46.com/ayane.suzuki/2021/06/061733.php"/>
+        <updated>2021-06-02T04:00:01.000Z</updated>
+        <summary type="html"><![CDATA[夏の食べ物を聞かれて、トウモロコシを思い浮かべるのは、私だけでしょうか。 『と...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["東大王"の明日と青色。]]></title>
         <id>http://blog.nogizaka46.com/yuri.kitagawa/2021/06/061723.php</id>
