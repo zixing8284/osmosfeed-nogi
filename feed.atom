@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:51:05.869Z</updated>
+    <updated>2021-06-04T01:34:34.038Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
     <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6月もがんばろうね〜　266.]]></title>
+        <id>http://blog.nogizaka46.com/kaede.satou/2021/06/061750.php</id>
+        <link href="http://blog.nogizaka46.com/kaede.satou/2021/06/061750.php"/>
+        <updated>2021-06-03T11:50:01.000Z</updated>
+        <summary type="html"><![CDATA[こんばんは〜　今日もお疲れ様です　　佐藤楓です　新制服です〜色味がとっても可愛い...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高校3年生です]]></title>
+        <id>http://blog.nogizaka46.com/miyu.matsuo/2021/06/061747.php</id>
+        <link href="http://blog.nogizaka46.com/miyu.matsuo/2021/06/061747.php"/>
+        <updated>2021-06-03T11:10:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは〜私は何回自分の年齢を間違えるのでしょうか。困ったもんです。๛(๑･~...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ちみ]]></title>
         <id>http://blog.nogizaka46.com/ayane.suzuki/2021/06/061733.php</id>
