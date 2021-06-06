@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zixing8284.github.io/osmosfeed-nogi/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T01:11:30.134Z</updated>
+    <updated>2021-06-06T01:04:46.615Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://zixing8284.github.io/osmosfeed-nogi/index.html"/>
     <link rel="self" href="https://zixing8284.github.io/osmosfeed-nogi/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[おひさヽ(｡･ω･｡)ﾉ619]]></title>
+        <id>http://blog.nogizaka46.com/manatsu.akimoto/2021/06/061788.php</id>
+        <link href="http://blog.nogizaka46.com/manatsu.akimoto/2021/06/061788.php"/>
+        <updated>2021-06-05T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは♪      ブログではお久しぶりです(^^)    ...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大好きすぎて、聖来ちゃんになっちゃった！　早川聖来]]></title>
+        <id>http://blog.nogizaka46.com/seira.hayakawa/2021/06/061784.php</id>
+        <link href="http://blog.nogizaka46.com/seira.hayakawa/2021/06/061784.php"/>
+        <updated>2021-06-05T11:00:35.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは！ 　 大阪府出身、20歳の早川聖来です。お見知り置きを☺︎ ...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人PV]]></title>
+        <id>http://blog.nogizaka46.com/tamami.sakaguchi/2021/06/061786.php</id>
+        <link href="http://blog.nogizaka46.com/tamami.sakaguchi/2021/06/061786.php"/>
+        <updated>2021-06-05T10:18:01.000Z</updated>
+        <summary type="html"><![CDATA[さかぐち 坂道 登り坂！たまにはたまみと登ってね。　おはようございます3期生阪...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ななめのせかい　弓木奈於]]></title>
+        <id>http://blog.nogizaka46.com/nao.yumiki/2021/06/061781.php</id>
+        <link href="http://blog.nogizaka46.com/nao.yumiki/2021/06/061781.php"/>
+        <updated>2021-06-05T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！ 乃木坂46 4期生 京都府出身 弓木奈於（ゆみきなお）です☺︎ ...]]></summary>
+        <author>
+            <name>2020年ブログ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラピスラズリ。]]></title>
         <id>http://blog.nogizaka46.com/rika.satou/2021/06/061776.php</id>
